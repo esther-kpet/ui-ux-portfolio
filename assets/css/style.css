@@ -18,18 +18,18 @@
   --cadet-blue-crayola: hsl(240, 10%, 70%);
   --gold-web-golden: hsl(50, 100%, 54%);
   --vivid-sky-blue: hsl(196, 84%, 63%);
-  --midnight-blue: hsl(231, 83%, 25%);
+  --midnight-blue: hsl(204, 88%, 53%);
   --minion-yellow: hsl(50, 100%, 64%);
   --independence: hsl(225, 24%, 27%);
   --orange-soda: hsl(31, 100%, 50%);
-  --space-cadet: hsl(243, 23%, 18%);
-  --fiery-rose: hsl(349,82%,51%);
-  --klein-blue: hsl(230, 80%, 39%);
+  --space-cadet: hsl(206, 7%, 21%);
+  --fiery-rose: hsl(349, 82%, 51%);
+  --klein-blue: hsl(214, 100%, 59%);
   --bluetiful: hsl(222, 88%, 55%);
-  --glaucous: hsl(230, 52%, 63%);
+  --glaucous: hsl(225, 2%, 51%);
   --manatee: hsl(254, 7%, 65%);
   --rufous: hsl(2, 85%, 35%);
-  --black: hsl(0, 0%, 0%);
+  --black: hsl(200, 29%, 23%);
   --white: hsl(0, 0%, 100%);
 
   /**
@@ -450,7 +450,7 @@ body {
 }
 
 .portfolio-card .card-subtitle {
-  color: var(--orange-soda);
+  color: var(--bluetiful);
   margin-block-end: 5px;
 }
 
