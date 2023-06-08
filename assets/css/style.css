@@ -606,6 +606,7 @@ textarea.contact-input {
 }
 
 .contact-item-link {
+  color: aliceblue;
   transition: var(--transition-1);
 }
 
