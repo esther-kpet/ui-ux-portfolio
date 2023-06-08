@@ -1,1 +1,10 @@
 assets/MoodBoard-FamDinn.svg filter=lfs diff=lfs merge=lfs -text
+Smith filter=lfs diff=lfs merge=lfs -text
+FamDinn filter=lfs diff=lfs merge=lfs -text
+Persona.svg filter=lfs diff=lfs merge=lfs -text
+assets/James filter=lfs diff=lfs merge=lfs -text
+assets/Sarah filter=lfs diff=lfs merge=lfs -text
+Lee filter=lfs diff=lfs merge=lfs -text
+assets/Sarah[[:space:]]Lee[[:space:]]FamDinn[[:space:]]Persona.svg filter=lfs diff=lfs merge=lfs -text
+assets/Sarah%Lee%FamDinn%Persona.svg filter=lfs diff=lfs merge=lfs -text
+assets/James%Smith%FamDinn%Persona.svg filter=lfs diff=lfs merge=lfs -text
