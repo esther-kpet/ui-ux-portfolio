@@ -21,6 +21,7 @@
   --midnight-blue: hsl(204, 88%, 53%);
   --minion-yellow: hsl(50, 100%, 64%);
   --independence: hsl(225, 24%, 27%);
+  --badaka: hsl(167, 60%, 6%);
   --orange-soda: hsl(31, 100%, 50%);
   --space-cadet: hsl(206, 7%, 21%);
   --fiery-rose: hsl(349, 82%, 51%);
@@ -458,6 +459,7 @@ body {
 .portfolio-card .card-title {
   max-width: 20ch;
   margin-block-end: 20px;
+  color: var(--badaka);
 }
 
 .portfolio-card .btn-link {
@@ -469,7 +471,7 @@ body {
 }
 
 .portfolio-card .btn-link ion-icon {
-  color: var(--orange-soda);
+  color: var(--fiery-rose);
   font-size: 1.6rem;
 }
 
@@ -1051,6 +1053,7 @@ textarea.contact-input {
 
   .portfolio-card .btn-link {
     --fs-6: 1.6rem;
+    color: var(--fiery-rose);
   }
 
   /**
