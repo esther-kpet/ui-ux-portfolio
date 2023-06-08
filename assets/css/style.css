@@ -26,11 +26,12 @@
   --fiery-rose: hsl(349, 82%, 51%);
   --klein-blue: hsl(214, 100%, 59%);
   --bluetiful: hsl(222, 88%, 55%);
-  --glaucous: hsl(225, 2%, 51%);
+  --glaucous: hsl(0, 0%, 69%);
   --manatee: hsl(254, 7%, 65%);
   --rufous: hsl(2, 85%, 35%);
   --black: hsl(200, 29%, 23%);
   --white: hsl(0, 0%, 100%);
+  --text-titles: hsl(353, 67%, 51%);
 
   /**
    * typography
@@ -214,7 +215,7 @@ body {
 }
 
 .section-subtitle {
-  color: var(--orange-soda);
+  color: var(--text-titles);
   font-family: var(--ff-barlow);
   font-size: var(--fs-4);
   text-align: center;
@@ -330,7 +331,7 @@ body {
 }
 
 .hero {
-  background-image: url("../images/hero-bg.jpg");
+  background-image: url("../images/hero-bg.svg");
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center;
@@ -527,7 +528,7 @@ body {
 }
 
 .contact-card .card-subtitle {
-  color: var(--orange-soda);
+  color: var(--text-titles);
   font-family: var(--ff-barlow);
   font-size: var(--fs-4);
   font-weight: var(--fw-600);
